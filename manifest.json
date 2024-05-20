@@ -1,0 +1,10 @@
+{
+	"id": "plex-watchlist-sync",
+	"name": "Plex Watchlist Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Maintain a watch list in Obsidian based on your Plex RSS feed.",
+	"author": "gndclouds",
+	"authorUrl": "https://github.com/gndclouds",
+	"isDesktopOnly": false
+}
